@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my website.<br>I collaborated with a hospital pet project developing an employees module for the management system.<br>I'm learning Java.<br>I'm a hugh fan of Lord of the Rings, John Wick, Moon Knigth and The Mandalorian<br>
+I'm currently working on my website.<br>I collaborated with a web app restaurant reservations and a hospital pet project developing an employees module for the management system.<br>I'm learning Java.<br>I'm a hugh fan of Lord of the Rings, John Wick, Moon Knigth and The Mandalorian<br>
 
 
 ## 🌐 Socials:
