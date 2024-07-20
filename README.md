@@ -9,7 +9,7 @@ I like to hang out with family and friends on weekends and share a Guiness with 
 
 
 https://www.credly.com/users/rocio-baigorria.1a949f0d
-# 💻 My Teach Stack is: 
+# 💻 My Tech Stack is: 
 Java - SpringBoot - Node JS - Next JS - Postman 
 Spring Cloud - Jenkins - Docker - AWS 
 VS Code - Intellij Idea - POO
